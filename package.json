@@ -1,0 +1,17 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "understanding more about  typescript design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yabo Lindile",
+  "license": "ISC",
+  "dependencies": {
+    "@cosmjs/stargate": "^0.30.0",
+    "@keplr-wallet/unit": "^0.11.48",
+    "@types/node": "^18.14.2",
+    "osmojs": "^14.0.0-rc.0"
+  }
+}
